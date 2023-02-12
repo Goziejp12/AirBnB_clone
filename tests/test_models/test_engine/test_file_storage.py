@@ -2,7 +2,7 @@
 """Defines unittests for models/engine/file_storage.py.
 Unittest classes:
     TestFileStorage_instantiation
-    TestFileStorage_method
+    TestFileStorage_methods
 """
 import os
 import json
