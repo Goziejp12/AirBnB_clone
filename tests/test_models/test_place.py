@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 """Defines unittests for models/place.py.
 Unittest classes:
     TestPlace_instantiation
